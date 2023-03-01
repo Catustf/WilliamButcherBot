@@ -27,22 +27,22 @@ if HEROKU:
     RSS_DELAY = int(environ.get("RSS_DELAY", None))
     PM_PERMIT = bool(int(environ.get("PM_PERMIT", None)))
 else:
-    BOT_TOKEN = "467677575:YZfaakjwd545dfg-N6JStihhuw5gQeZHntc"
-    API_ID = 123456
-    API_HASH = "dfxcgs5s12hdcxfgdfz"
+    BOT_TOKEN = "6019599109:AAGh7-negxrazpgsKBZlEhFuJfbTXO-9XBs" 
+    API_ID = 24536809
+    API_HASH = "734cf060a9b3b9a6e1fd2aa274fc0851" 
     USERBOT_PREFIX = "."
-    PHONE_NUMBER = "+916969696969"  # Need for Userbot
+    PHONE_NUMBER = "+918328244503"  # Need for Userbot
     SUDO_USERS_ID = [
-        4543744343,
-        543214651351,
+       5854238967,
+        
     ]  # Sudo users have full access to everything, don't trust anyone
-    LOG_GROUP_ID = -100125431255
-    GBAN_LOG_GROUP_ID = -100125431255
-    MESSAGE_DUMP_CHAT = -1001181696437
+    LOG_GROUP_ID = -1001514109464
+    GBAN_LOG_GROUP_ID = -1001514109464
+    MESSAGE_DUMP_CHAT = -1001514109464
     WELCOME_DELAY_KICK_SEC = 300
-    MONGO_URL = "mongodb+srv://username:password@cluster0.ksiis.mongodb.net/YourDataBaseName?retryWrites=true&w=majority"
-    ARQ_API_KEY = "Get this from @ARQRobot"
-    ARQ_API_URL = "https://arq.hamker.in"
+    MONGO_URL = "mongodb+srv://galaxina:galaxina@galaxina.ejvfqm7.mongodb.net/?retryWrites=true&w=majority" 
+    ARQ_API_KEY = "TBGBMV-GUZHXX-JJBFZV-CARNVR-ARQ" 
+    ARQ_API_URL = "none" 
     LOG_MENTIONS = True
     RSS_DELAY = 300  # In seconds
     PM_PERMIT = True
