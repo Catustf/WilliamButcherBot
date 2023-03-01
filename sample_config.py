@@ -40,7 +40,8 @@ else:
     GBAN_LOG_GROUP_ID = -1001514109464
     MESSAGE_DUMP_CHAT = -1001514109464
     WELCOME_DELAY_KICK_SEC = 300
-    MONGO_URL = "mongodb+srv://galaxina:galaxina@galaxina.ejvfqm7.mongodb.net/?retryWrites=true&w=majority" 
+    MONGO_URL ="
+mongodb+srv://galaxina:galaxina@galaxina.ejvfqm7.mongodb.net/galaxina?retryWrites=true&w=majority" 
     ARQ_API_KEY = "TBGBMV-GUZHXX-JJBFZV-CARNVR-ARQ" 
     ARQ_API_URL = "none" 
     LOG_MENTIONS = True
