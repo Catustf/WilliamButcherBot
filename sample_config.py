@@ -46,4 +46,4 @@ else:
     ARQ_API_URL = "none" 
     LOG_MENTIONS = True
     RSS_DELAY = 300  # In seconds
-    PM_PERMIT = True
+    PM_PERMIT = True 
